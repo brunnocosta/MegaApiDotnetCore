@@ -15,10 +15,6 @@ Este projeto é uma API feita em .NET Core para listar os dados dos bosses de Me
 ## Estrutura do Projeto
 
 ```plaintext
-.vs/
-.vscode/
-    launch.json
-    tasks.json
 bin/
 Controllers/
     RobotsController.cs
